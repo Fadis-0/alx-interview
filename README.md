@@ -1,2 +1,1 @@
-# alx-interview
-by melissa
+# alx-interview repository 
